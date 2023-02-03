@@ -4,7 +4,7 @@ Use AWS Sagemaker to train a pretrained model that can perform image classificat
 
 ## Project Set Up and Installation
  1. Enter AWS through the gateway in the course and open SageMaker Studio. 
- 2. Download the starter files.
+ 2. Download the starter files [train_and_deploy.ipynb](train_and_deploy.ipynb).
  3. Download/Make the dataset available. 
 
 ## Dataset
